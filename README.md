@@ -74,7 +74,7 @@ Tools that cut long videos into short clips automatically.
 
 ## Open data
 
-- [Clipping market data](https://github.com/ClippingAlpha/clipping-market-data) - Daily snapshot of live campaign counts, budget left and pay per 1,000 views by clipping platform, type, app and niche, CC BY 4.0.
+- [Clipping market data](https://github.com/ClippingAlpha/clipping-market-data) - Daily archive of the ClipCPM Index, clipping platform and campaign files, with live counts and budget left, CC BY 4.0.
 - [ClippingAlpha open data](https://clippingalpha.com/data) - Monthly CSV files of the clipping market with a data dictionary, CC BY 4.0.
 
 ## Contributing
